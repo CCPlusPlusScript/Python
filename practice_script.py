@@ -1,2 +1,4 @@
-#this is comment
-print("sasa")
+#this is String
+str1 = "This is string One"
+
+print(str1)
